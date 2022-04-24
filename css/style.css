@@ -1,0 +1,67 @@
+body {
+  max-width: 50%;
+  margin: 1em auto;
+  background-color: white;
+  color: rgb(26, 24, 24);
+}
+
+.name2 {
+  border-bottom: 1px solid white;
+  font-weight: bold;
+}
+
+header {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-gap: 10px;
+  align-items: center;
+  background-color: #177C9C;
+  border-radius: 10px;
+  padding: 1rem;
+  box-shadow: 3px 3px 5px rgb(26, 24, 24);
+}
+
+.name {
+  text-align: center;
+}
+
+.body-box {
+  display: grid;
+  grid-template-columns: 1fr;
+  align-items: center;
+}
+
+
+p {
+  border-top: 1px solid white;
+  font-style: italic;
+}
+
+.vanessaImage {
+  text-align: center;
+}
+
+ul {
+  font-family: 'Montserrat', sans-serif;
+  align-items: center;
+}
+
+a:hover {
+  color: rgb(3, 36, 49);
+}
+
+a {
+  color: #177C9C;
+  
+}
+
+
+footer {
+  background-color: #177C9C;
+  border-radius: 10px;
+  padding: 10px;
+  font-family: sans-serif;
+  text-align: center;
+  font-weight: bold;
+  box-shadow: 3px 3px 5px black;
+}
