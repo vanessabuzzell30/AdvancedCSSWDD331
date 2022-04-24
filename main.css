@@ -90,7 +90,6 @@ h2 {
     height: auto;
   }
   nav ul {
-    display: inline-flexbox;
     border-color: #d0d0d0;
     color: #d0d0d0;
     border-top: .14rem solid;
@@ -118,8 +117,6 @@ h2 {
     display: flex;
     flex-wrap: wrap;
     gap: 0 4em;
-    text-align: right;
-    text-justify: right;
     border-color: #d0d0d0;
     color: #d0d0d0;
     border-top: .14rem solid;
