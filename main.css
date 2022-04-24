@@ -105,13 +105,15 @@ h2 {
   }
   .post-date {
     display: flex;
-    padding: 3rem 0rem;
-    text-align: center;
+    padding: 2em 2em 2em 4em;
+    text-align: right;
+    
   }
   .post-content {
     border-left: .14rem solid;
     border-bottom: .14rem solid;
     border-color: #d0d0d0;
+    padding: 2em 2em 2em 2em;
   }
   nav ul {
     display: flex;
